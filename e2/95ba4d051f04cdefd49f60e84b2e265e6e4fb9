@@ -1,0 +1,22 @@
+metaflow/plugins/argo/argo_workflows.py
+  s_00862115d5f5a0::t_3625c26df6263b 196-197
+  s_00862115d5f5a0::t_f086931079e58f 1016,2748,3948
+metaflow/plugins/kubernetes/kube_utils.py
+  s_00862115d5f5a0::t_3b5b76a74c6221 79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "e295ba4d051f04cdefd49f60e84b2e265e6e4fb9",
+  "prompts": {},
+  "sessions": {
+    "s_00862115d5f5a0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b3cdff3-ebf9-428f-9470-a54321108124",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Capiru <gabriel.silva.2@deliveryhero.com>"
+    }
+  }
+}
