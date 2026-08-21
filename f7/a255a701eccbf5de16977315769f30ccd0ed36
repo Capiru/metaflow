@@ -1,0 +1,36 @@
+metaflow/plugins/kubernetes/kube_utils.py
+  s_00862115d5f5a0::t_9b3faf2444808f 66,68,70-74,97-100,102-107,109-123
+  s_00862115d5f5a0::t_ad430e1a3ab226 79-82,87,101,108
+metaflow/plugins/argo/argo_workflows.py
+  s_00862115d5f5a0::t_bf275ebc13a6c1 1004
+  s_00862115d5f5a0::t_27d11084b6d0e9 418,420-421,423,425-426,428-436,438-442
+  s_00862115d5f5a0::t_b9567128d32169 925
+  s_00862115d5f5a0::t_7dce4aba45d474 194-197
+  s_00862115d5f5a0::t_86b144fd8bac25 198-199
+  s_00862115d5f5a0::t_6dd787519dc53b 2608
+  s_00862115d5f5a0::t_53ffad36ab759a 3808
+  s_00862115d5f5a0::t_6d4f6b5ec871bb 957
+test/unit/test_argo_workflows_labels.py
+  s_00862115d5f5a0::t_99010c120795c8 232-234,239-242,244-246
+  s_00862115d5f5a0::t_a5c413f21c9a9b 103,132-197,199,201-231,235-238,243
+  s_00862115d5f5a0::t_e17b6a7a33e601 104-131
+  s_00862115d5f5a0::t_38cb739e4bc158 49-50,57-70
+  s_00862115d5f5a0::t_5bbc18b6f0639c 198,200
+  s_00862115d5f5a0::t_7b13277495d0c6 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "f7a255a701eccbf5de16977315769f30ccd0ed36",
+  "prompts": {},
+  "sessions": {
+    "s_00862115d5f5a0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2b3cdff3-ebf9-428f-9470-a54321108124",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Capiru <gabriel.silva.2@deliveryhero.com>"
+    }
+  }
+}
